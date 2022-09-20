@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Илья Лисенков](https://up.htmlacademy.ru/htmlcss/35/user/2223025).
-* Наставник: [Анна Лисененкова] (https://htmlacademy.ru/profile/ankhena_)
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena_).
 
 ---
 
